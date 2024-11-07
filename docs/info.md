@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It uses 4 invertors, XOR, OR gates with 8 inputs, and 6 outputs, producing 6 out of 8 segments that can be lit up or not. 
 
 ## How to test
 
-Explain how to use your project
-
+Switches 1 & 2 turn the top segment on or off depending on if only one switch is on. Switch 3 turns on or off the top right segment, switch 4 turns on or off the bottom right segment, switch 6 turns on or off the bottom left segment, switch 7 turns on or off the bottom segment, switch 8 turns on or off the top left segment. 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
